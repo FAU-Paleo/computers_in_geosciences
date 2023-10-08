@@ -1,24 +1,22 @@
 ---
 layout: post
-title:  "Basic automation/programming tools and concepts"
+title:  "Monday: File management and data"
 date:   2022-10-10 06:25:27 +0200
+permalink: /monday/
 ---
 
 # Exercise material
 
-## Links to Download 
+## Software  
+
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [git](https://git-scm.com/)
-- [wget](https://eternallybored.org/misc/wget/)
-- [imagemagick](https://imagemagick.org/script/download.php)
+- [git (for git-bash)](https://git-scm.com/)
 
-## List of images
+## Other links  
 
-- [first.txt]({{site.url}}{{site.baseurl}}/data/images/first.txt)
-- [second.txt]({{site.url}}{{site.baseurl}}/data/images/second.txt)
 
-## Scripts
 
-- BASH (Git-BASH in Windows):  [dl_and_resize_bash.sh]({{site.url}}{{site.baseurl}}/data/scripts/dl_and_resize_bash.sh)
-- Windows Command Prompt:  [dl_and_resize_bash.sh]({{site.url}}{{site.baseurl}}/data/scripts/dl_and_resize_bash.sh)
+## Example data files
+
+- [data.zip]({{site.url}}{{site.baseurl}}/data/data/data.zip)
 
