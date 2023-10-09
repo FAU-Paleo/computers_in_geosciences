@@ -25,3 +25,4 @@ permalink: /monday/
 
 ## Slides
 - [1_intro_files_text.pdf]({{site.url}}{{site.baseurl}}/data/slides/1_intro_files_text.pdf)
+- [2_bash_essentials.pdf]({{site.url}}{{site.baseurl}}/data/slides/2_bash_essentials.pdf)
