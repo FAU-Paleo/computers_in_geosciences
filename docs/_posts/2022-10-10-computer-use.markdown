@@ -12,7 +12,10 @@ permalink: /monday/
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [git (for git-bash)](https://git-scm.com/)
 
-## Other links  
+## Typing  
+
+- [keybr](https://www.keybr.com/)
+- [10 fast fingers](https://10fastfingers.com/)
 
 
 
