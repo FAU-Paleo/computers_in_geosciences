@@ -16,10 +16,12 @@ permalink: /monday/
 
 - [keybr](https://www.keybr.com/)
 - [10 fast fingers](https://10fastfingers.com/)
-
+- [Typing Club](https://www.typingclub.com/)
 
 
 ## Example data files
 
 - [data.zip]({{site.url}}{{site.baseurl}}/data/data/data.zip)
 
+## Slides
+- [1_intro_files_text.pdf]({{site.url}}{{site.baseurl}}/data/slides/1_intro_files_text.pdf)
