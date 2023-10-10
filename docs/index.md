@@ -5,13 +5,13 @@ layout: home
 
 ## Schedule
 
-| Day                    | Topic                                                                          | Instructor          |
-|------------------------|--------------------------------------------------------------------------------|---------------------|
-| October 9 (Monday)     | [Introduction, Files and BASH essential]({{site.url}}{{site.baseurl}}/monday/) | Kocsis              |
-| October 10 (Tuesday)   | Raster and Vector Image processing                                             | Teichert, Schulbert |
-| October 11 (Wednesday) | Open Source software, Programming basics. R as a calculator.                   | Kocsis              |
-| October 12 (Thursday)  | R basic features (script reading and modification)                             | Kocsis              |
-| October 13 (Friday)    | R basic features (script reading and modification)                             | Kocsis              |
+| Day                    | Topic                                                                                                   | Instructor          |
+|------------------------|---------------------------------------------------------------------------------------------------------|---------------------|
+| October 9 (Monday)     | [Introduction, Files and BASH essential]({{site.url}}{{site.baseurl}}/monday/)                          | Kocsis              |
+| October 10 (Tuesday)   | Raster and Vector Image processing                                                                      | Teichert, Schulbert |
+| October 11 (Wednesday) | [Open Source software, Programming basics. R as a calculator.]({{site.url}}{{site.baseurl}}/wednesday/) | Kocsis              |
+| October 12 (Thursday)  | R basic features (script reading and modification)                                                      | Kocsis, Kiessling   |
+| October 13 (Friday)    | R basic features (script reading and modification)                                                      | Kocsis              |
 
 ## Some details 
 
