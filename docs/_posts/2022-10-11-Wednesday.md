@@ -40,3 +40,6 @@ permalink: /wednesday/
 - [RStudio](https://posit.co/products/open-source/rstudio/)
 
 
+## R demo script
+
+- Demo script: [1_corals_demo.R]({{site.url}}{{site.baseurl}}/data/scripts/1_corals_demo.R)
