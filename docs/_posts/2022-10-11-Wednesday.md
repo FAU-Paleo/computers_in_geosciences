@@ -5,7 +5,6 @@ date:   2023-10-11 06:25:27 +0200
 permalink: /wednesday/
 ---
 
-
 ## Graphics software
 
 #### Open source editors

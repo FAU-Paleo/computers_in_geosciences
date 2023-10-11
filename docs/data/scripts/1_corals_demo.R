@@ -1,43 +1,36 @@
-# Analytical Script to demonstrate the basic capabilities of R
+# Script to demonstrate the basic capabilities of R
 # Using the divDyn toolchain
-# Ádám T. Kocsis, 2022-10-12, Erlangen
+# Ádám T. Kocsis, 2023-08-10, Erlangen
 # CC BY 4.0
 
-
 # check whether packages are present, otherwise install them
-required <- c("divDyn", "chronosphere", "rgdal")
+required <- c("divDyn", "chronosphere", "sf")
 installed <- installed.packages()
 
 # a for loop: iterate for all packages in required
 for(i in 1:length(required)){
 	# conditional statement
-	packageInstalled <- required[i] %in% rownames(installed)
-
-	# if package is not installed, install it
-	if(!packageInstalled){
+	if(!required[i]%in%rownames(installed)){
 		install.packages(required[i])
 	}
 }
 
-# "attaching" external packages
-library(divDyn)
-library(chronosphere)
-library(rgdal)
-
-# setting a working directory
+# setting a project directory
 projDir <- NULL
 if(!is.null(projDir)) setwd(projDir)
 
-# For feedback: messages
+# messages
 message("Your current working directory is:")
 message(getwd())
 
-# Scripts usually begin with the importing of some data
-# 1. using package built-in data
+# using external packages
+library(divDyn)
+library(chronosphere)
+library(sf)
+
+# using built-in data
 data(stages) # stage-level timescale
 data(corals) # Paleobiology Database download
-# 2. loading from files
-# 3. Downloading from the internet (see below)
 
 # executing function calls from packages
 dd <- divDyn::divDyn(corals, bin="stg", tax="genus")
@@ -79,7 +72,7 @@ legend(
 
 # saving outputs to a directory
 # create new directory from R
-dir.create("corals_export", showWarnings=FALSE)
+dir.create("corals_export")
 
 # subsetting tables (matrices)
 saveThis <- dd[52:95,]
@@ -90,19 +83,17 @@ write.csv( saveThis, file="corals_export/divDyn.csv", row.names=FALSE)
 # also the original result
 saveRDS(file="corals_export/divDyn_original.rds", dd)
 
-# downloading a world map
-ne <- chronosphere::fetch("NaturalEarth")
-
-# plotting a world map
-plot(ne, col="gray", main="Coral occurrences from the world")
+# downloading and drawing a world map
+ne <-fetch("NaturalEarth")
+plot(ne$geometry, col="gray", main="Coral occurrences from the world")
 
 # with the coral occurrences
 coordinates <- unique(corals[,c("lng","lat")])
 # points with RGB colors
-points(coordinates, cex=1.1, pch=3, col="#AA223355")
+points(coordinates, pch=3, col="#AA223355")
 
 # definition of functions
-plot_occs_from_stage <- function(x, stage, ts=stages, map=ne){
+plot_occs_from_stage <- function(x, stage, ts=stages, map=ne$geometry){
 	# occurrences from the stage
 	thisStage <- x[which(x$stg==stage),]
 
