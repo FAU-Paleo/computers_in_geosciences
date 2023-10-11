@@ -43,3 +43,8 @@ permalink: /wednesday/
 ## R demo script
 
 - Demo script: [1_corals_demo.R]({{site.url}}{{site.baseurl}}/data/scripts/1_corals_demo.R)
+
+
+## Slides
+- [3_FOSS.pdf]({{site.url}}{{site.baseurl}}/data/slides/3_FOSS.pdf)
+- [4_programming_automation.pdf]({{site.url}}{{site.baseurl}}/data/slides/4_programming_automation.pdf)
