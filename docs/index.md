@@ -1,32 +1,19 @@
 ---
-title: Material for the Computers in Geosciences course (2023)
-layout: home
+title: Computers in Geosciences course
+layout: page
 ---
 
-## Schedule
+![](https://palaeobiology.nat.fau.de/images/courses/big/computers.jpg)
 
-| Day                    | Topic                                                                                                   | Instructor          |
-|------------------------|---------------------------------------------------------------------------------------------------------|---------------------|
-| October 9 (Monday)     | [Introduction, Files and BASH essential]({{site.url}}{{site.baseurl}}/monday/)                          | Kocsis              |
-| October 10 (Tuesday)   | Raster and Vector Image processing                                                                      | Teichert, Schulbert |
-| October 11 (Wednesday) | [Open Source software, Programming basics. R as a calculator.]({{site.url}}{{site.baseurl}}/wednesday/) | Kocsis              |
-| October 12 (Thursday)  | R basic features (script reading and modification)                                                      | Kocsis              |
-| October 13 (Friday)    | [Data analysis and statistics]({{site.url}}{{site.baseurl}}/friday/), R basic features (script reading and modification)                                                      | Kiessling, Kocsis   |
+## About
 
-## Some details 
+This webpage contains material that is taught at **Computers in Geosciences** course the *Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)*. The course is tied together with the international Paleobiology program at the FAU. More information about the course can be found at [palaeobiology.nat.fau.de](https://palaeobiology.nat.fau.de/program/courses/computers/).
 
+# Interations
 
-On [palaeobiology.nat.fau.de](https://palaeobiology.nat.fau.de/program/courses/computers/).
+| Year | Dates         | Instructors                                                              | Material |
+|------|---------------|--------------------------------------------------------------------------|----------|
+| 2023 | October 09-12 | Ádám Kocsis, Sebastian Teichert, Christian Schulbert, Wolfgang Kiessling |          [Material of the 2023 course]({{site.url}}{{site.baseurl}}2023/)|
 
-**Locations:**   
-- Paleo Seminar Room - Henkestr. 91, 91054, Erlangen (Mon, Wed, Thu, Fri)
-- CIP Room 1 Geography (55801.00.133) - Wetterkreuz 15, 91058 Tennenlohe, Erlangen (Tuesday)
-
-Lunch break: 12:00 - 13:00  
-
-[Link to Campo](https://www.campo.fau.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91654&periodId=396&navigationPosition=studiesOffered,searchCourses)  
-[Link to StudOn](https://www.studon.fau.de/crs5362352.html)  
-
-Requirements to pass: **attendance**. 
 
 

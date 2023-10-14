@@ -1,0 +1,937 @@
+- name: Systematics, Ecology and Biostratigraphy of Microfossils
+  nickname: Micropaleontology
+  ref: microfossils
+  module: "PB-V2"
+  time:
+    y2022:
+      - "10:15 - 11:45"
+  room:
+    y2022:
+      - "PAL ÜR"
+  group:
+    - regular
+  short: "Microfossils are the most numerouse fossil organisms. In this course, students learn about the basics of this useful group of fossils in a systematic, group-by-group fashion."
+  evaluation: "Written exam at the end of the semester with the biostratigraphy course."
+  semester: 1
+  administrator: mulvey
+  instructors:
+    - mulvey
+    - mathes
+    - may_huang
+    - isabella_leonhard
+  ects: 3
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87733&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314457.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/micropaleo.png"
+  image:
+    title: "images/courses/big/microfossils.jpg"
+    caption: 'Foraminifera "Star Sand" of <i>Baculogypsina sphaerulata</i> from Hatoma Island, Japan (photo by Alain Couette)'
+    caption_url: "http://www.arenophile.fr/Pages_IMG/P2085f.html"
+  form: "1.5 class every week."
+  type:
+    - lecture
+    - tutorial
+
+- name: Morphology, Systematics and Ecology of Invertebrates
+  nickname: Invertebrates
+  ref: invertebrates
+  group:
+    - regular
+  short: "This course provides an overview of key invertebrate fossil groups and their evolutionary relationships. Their utility in understanding evolutionary & ecological processes is demonstrated through a series of hands on exercises."
+  evaluation: "A 60 minute written exam is required to pass this course. "
+  semester: 1
+  module: "PB-V1"
+  time:
+    y2022:
+      - "12:15 - 13:45"
+  room:
+    y2022:
+      - "Henkestr."
+  administrator: warnock
+  instructors:
+    - warnock
+    - former:
+        - francis_dunne
+        - emanuela_di_martino
+        - lee_hsiang_liow
+        - imran_rahman
+        - kenneth_de_baets
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101711&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314455.html"
+  photos:
+  image:
+    title: "images/courses/big/inverts.jpg"
+    caption: "A photo of the rugose coral <i>Stauria</i> (photo by Axel Munnecke)"
+  thumbnail: "images/courses/thumbnails/inverts.png"
+  form: "2 hours every week. "
+  type:
+    - lecture
+    - tutorial
+
+- name: Methods of Biostratigraphy
+  nickname: Biostratigraphy
+  ref: biostrat
+  module: "PB-V2"
+  time:
+    y2022:
+      - "12:15 - 13:00"
+  room:
+    y2022:
+      - "Henkestr."
+  group:
+    - regular
+  short: "In this course, students learn about the stratigraphic ranges of organisms, how to use them for correlation and about the biostratigraphy of mass extinction events."
+  evaluation: "Exam at the end of the semester, together with the Microfossils course."
+  semester: 1
+  administrator: kocsis
+  instructors:
+    - dunne
+    - kocsis
+    - kiessling
+  ects: 2
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104885&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314458.html"
+  photos:
+  image:
+    title: "images/courses/big/biostratigraphy.png"
+    caption: "How biostratigraphic correlation works (illustration by Alana McGillis)"
+    caption_url: "https://www.museumoftheearth.org/daring-to-dig/women-in-industry"
+  thumbnail: "images/courses/thumbnails/biostrat.png"
+  form: "45 minute seminar once a week."
+  type:
+    - seminar
+
+- name: Literature Seminar
+  nickname: Literature Seminar
+  module: "CE-V2"
+  time:
+    y2022:
+      - "14:30 - 16:00"
+  room:
+    y2022:
+      - "Henkestr."
+  ref: literature_seminar
+  group:
+    - regular
+  research: true
+  short: "To learn how to develop scientific arguments, students present one article explaining the main problem/hypothesis, the approach, and the conclusions. Together with other students and lecturers they discuss how the methods or findings could be related to their own research interests. "
+  evaluation:
+  semester: 1
+  administrator: warnock
+  instructors:
+    - warnock
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89542&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314569.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/literature.png"
+  image:
+    title: "images/courses/big/literature.jpg"
+  form: "1.5 lecture every week. "
+  type:
+    - seminar
+
+- name: Hypothesis Testing in Paleobiology
+  nickname: Hypothesis Testing
+  module: "PB-V4"
+  time:
+  room:
+  ref: hypothesis_testing
+  group:
+    - regular
+  short: "This course focuses on hypothesis testing and reproducibility in science. You will learn how to develop and test your own hypotheses, perform basic statistical tests and apply this knowledge to reproduce (and potentially improve) published results. There will be a combination of lectures and group exercises."
+  evaluation: "A 30 minute group presentation is required to pass this course."
+  semester: 2
+  administrator: warnock
+  instructors:
+    - warnock
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110389&periodId=387&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs2338982.html"
+  material: '<a href="https://hypothesis-testing.netlify.app/">Lecture website</a>'
+  image:
+    title: "images/courses/big/hypothesis.png"
+    caption: "The Normal distribution - Teacups, giraffes and statistics"
+    caption_url: "https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/hypothesis.png"
+  form: "4 day block course between the winter and summer semesters."
+  type:
+    - seminar
+
+- name: Microfacies Analysis and Diagenesis of Carbonate Rocks
+  nickname: Microfacies
+  module: "PB-F2"
+  time:
+  room:
+  ref: microfacies
+  group:
+    - regular
+  short: "The course starts with an introduction to carbonate sedimentology, which is followed by examples from various depositional environments and periods in Earth History. Thin sections and loose sediments are studied in terms of microfacies and diagenetic structure. "
+  evaluation: "A 60-minute written exam."
+  semester: 3
+  administrator: munnecke
+  instructors:
+    - munnecke
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105122&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5313843.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/carbonate.jpg"
+  image:
+    title: "images/courses/big/microfacies.jpg"
+    caption: "Tentaculite limestone from the Devonian Chortiv Beds in Podolia (Ukraine, photo by Axel Munnecke)"
+  form:
+  type:
+    - lecture
+    - tutorial
+
+- name: Analytical Paleobiology
+  nickname: Analytical Paleobiology
+  module: "PB-E2"
+  time:
+    y2023:
+      - "15:45 - 18:45"
+  room:
+    y2023:
+      - "Henkestr."
+  ref: analytical_paleo
+  group:
+    - regular
+  short: "The R programming environment is used to introduce students into the statistical analysis of paleontological data, focusing on the <a href='https://paleobiodb.org/#/'>Paleobiology Database</a>. The primary topic of the course are global-scale diversity dynamics and fossil sampling patterns."
+  evaluation: "Students are required to perform a small analytical project and present it before the class."
+  semester: 2
+  administrator: kiessling
+  instructors:
+    - kiessling
+    - kocsis
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87179&periodId=386&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs1515218.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/analytical.png"
+  image:
+    title: "images/courses/big/analytical_divDyn.png"
+    caption: "Fossil occurrence data of corals in the R programming environment (image by Adam Kocsis) "
+  form: "One three-hour lecture per week."
+  type:
+    - tutorial
+
+- name: Biofacies and Paleoecology
+  nickname: Biofacies and Paleoecology
+  module: "PB-E1"
+  time:
+    y2022:
+      - "14:15 - 15:45"
+  room:
+    y2022:
+      - "Henkestr."
+  ref: biofacies
+  group:
+    - regular
+  short: "This course explores fundamental concepts of ecology and paleoecology, paleoecological and paleoenviromental interpretations, dynamics and structure of paleocommunities."
+  evaluation: "Written exam together with Oceanography."
+  semester: 1
+  administrator: dimitrijevic
+  instructors:
+    - dimitrijevic
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99153&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314568.html"
+  photos:
+  image:
+    title: "images/courses/big/biofacies_fish.jpg"
+    caption: "School of fossil fish depicting collective behaviour 50 Ma (source: https://doi.org/10.1098/rspb.2019.0891)"
+  thumbnail: "images/courses/thumbnails/biofacies.jpg"
+  form: "1.5-hour lecture once a week. "
+  type:
+    - tutorial
+
+- name: Research Project Implementation
+  nickname: Research Project
+  module: "CE-F2"
+  time:
+  room:
+  ref: rp_implementation
+  group:
+    - regular
+  research: true
+  short: "Students conduct a previously designed small research project and learn how to sum up their results in the form of a scientific paper. "
+  evaluation: "Students are expected to write a short report about their project in the form of a journal article (format of <a href='https://royalsocietypublishing.org/journal/rsbl'>Biology Letters</a>)."
+  semester: 2
+  administrator: warnock
+  instructors:
+    - mulvey
+    - warnock
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89869&periodId=386&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs2526756.html"
+  photos:
+  image:
+    title: "images/courses/big/implement.jpg"
+    caption: "George William Harrison, a former master student, examines a cave bear skull."
+  thumbnail: "images/courses/thumbnails/implement.jpg"
+  form: "Occasional meetings to discuss technical/organization challenges. "
+  type:
+    - tutorial
+
+- name: Laboratory Methods in Paleontology
+  nickname: Lab Methods
+  module: "PB-V4"
+  time:
+    y2023:
+      - "8:15 - 11:00"
+  room:
+    y2023:
+      - "Lab building."
+  ref: lab_methods
+  group:
+    - regular
+  short: "In this course students are introduced to research devices, laboratory work and thin section preparation."
+  evaluation: "Besides participating in the lab sessions, students need to pass a written test at the end of the semester."
+  semester: 2
+  administrator: kocsis
+  instructors:
+    - teichert
+    - leipner-mata
+    - schulbert
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87147&periodId=386&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs3250526.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/lab_methods.jpg"
+  image:
+    title: "images/courses/big/lab.jpg"
+    caption: "The rock cutting room"
+  form: "Three contact hours (lab work) a week."
+  type:
+   - tutorial
+
+- name: Phylogenetics
+  nickname: Phylogenetics
+  module: "CE-V3"
+  time:
+    y2023:
+      - "14:00 - 16:00"
+  room:
+    y2023:
+      - "Henkestr. "
+  ref: phylogenetics
+  group:
+    - regular
+  material: "<a href='https://phylogenetics-fau.netlify.app/'>Lecture website </a>"
+  short: "This hands on course focuses on the use of Bayesian phylogenetics. You will learn about approaches used to infer trees, divergence times and evolutionary rates through a mix of lectures and tutorial material. The course will focus on getting to grips with the software <a href='https://revbayes.github.io/'>RevBayes</a>. "
+  more: "By the end students should understand the principles of Bayesian phylogenetic inference and be able to apply this knowledge to a research question of their choosing. During the second half of the semester each participant will work on their own project on a topic of their choice. "
+  evaluation:
+  semester: 2
+  administrator: warnock
+  instructors:
+    - warnock
+    - mulvey
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103412&periodId=386&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs2968999.html"
+  photos:
+  note: "The course is taught together with the Introduction to statistical modelling."
+  thumbnail: "images/courses/thumbnails/phylogenetics.jpg"
+  image:
+    title: "images/courses/big/phylorates.png"
+    caption: "Modes of speciation and their interpretation (Figure from Silvestro et al. 2018)"
+  form:
+  type:
+    - tutorial
+    - seminar
+
+- name: Introduction to Statistical Modelling
+  nickname: Statistical Modelling
+  module: "CE-V3"
+  time:
+  room:
+  ref: modelling
+  group:
+    - regular
+  material:
+  short: "This course will provide an introduction to statistical modelling and Bayesian inference. Through a combination of lectures and practical exercises, students will learn how to construct and apply model-based approaches to problems in paleobiology. Students will learn how to simulate data and perform inference using biologically and geologically informed models, as well as how explore the fit and limitations of existing models. "
+  evaluation: "5 page written report based on a personal project."
+  semester: 2
+  administrator: warnock
+  instructors:
+    - warnock
+    - mulvey
+#    - joelle_barido_sottani
+#    - sebastian_hoehna
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101629&periodId=386&navigationPosition=studiesOffered,searchCourses"
+  studon:
+  note: "The course is taught together with Phylogenetics."
+  photos:
+  thumbnail: "images/courses/thumbnails/bayesian.png"
+  image:
+    title: "images/courses/big/bayesian_trees.png"
+    caption: "A posterior probability distribution in phylogenetic analysis (Fig. 7.2 in <a href='https://www.semanticscholar.org/paper/Bayesian-phylogenetic-analysis-using-MRBAYES-THEORY-Ronquist-Mark/8dc4deabb59d91ffc65d49ea450881c7f58bee00'>Ronquist et al. 2011)</a>"
+  form: "Lecture once week for 2 hours. "
+  type:
+    - tutorial
+    - seminar
+
+- name: Macroevolution
+  nickname: Macroevolution
+  module: "PB-V3"
+  time:
+    y2023:
+      - "16:15 - 17:15"
+  room:
+    y2023:
+      - "Henkestr. "
+  ref: macroevolution
+  group:
+    - regular
+  short: "This course covers trends and patterns in evolution and biodiversity that occur over long timescales. You will explore hypotheses and outstanding questions about the drivers of macroevolutionary processes based on evidence from the molecular and fossil records."
+  evaluation: "A 60 minute written exam. "
+  semester: 2
+  administrator: kiessling
+  instructors:
+    - kiessling
+    - dunne
+  ects: 3
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89579&periodId=386&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs1522953.html"
+  photos:
+  image:
+    title: "images/courses/big/flight.jpg"
+    caption: "The convergent evolution of flight (from: <i>Convergent Evolution: an Introduction</i>)"
+    caption_url: "https://convergentevolution.wordpress.com/2015/04/16/hello-world/"
+  thumbnail: "images/courses/thumbnails/macroevolution.jpg"
+  form: "45 - 90 minute lectures every week. "
+  type:
+    - seminar
+
+- name: Vertebrate Paleobiology
+  nickname: Vertebrate Paleobiology
+  module: "PB-V3"
+  time:
+    y2023:
+      - "12:00 - 13:00"
+  room:
+    y2023:
+      - "Henkestr."
+  ref: vertebrates
+  group:
+    - regular
+  short: " This course provides an introduction to the major fossil vertebrate groups (early vertebrates, jawless fish, bony fish, early tetrapods, amphibians, reptiles, dinosaurs, birds, and mammals), working up through the Phanerozoic towards the present day. "
+  evaluation:
+  more: "Evolutionary phenomena and the paleobiological methods used to analyze them will also be explored, for example, mass extinctions, adaptive radiations, and the influence of environmental factors and fossil record biases on vertebrate evolutionary history."
+  semester: 2
+  administrator: dunne
+  instructors:
+    - dunne
+  ects: 2
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108691&periodId=387&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/studon/goto.php?target=crs_4940967"
+  photos:
+  thumbnail: "images/courses/thumbnails/dinosaur.png"
+  image:
+    title: "images/courses/big/vertebrates.jpg"
+    caption: "Dinosaur gallery at the Naturhistorisches Museum Vienna, Austria (photo by Emma Dunne)"
+  form: "45 minute seminar once a week."
+  type:
+    - seminar
+
+- name: Geobiology of Reefs
+  nickname: Reef Geobiology
+  module: "PB-F3"
+  time:
+    y2022:
+      - "09:15 - 10:45"
+  room:
+    y2022:
+      - "Henkestr."
+  ref: reefs
+  group:
+    - regular
+  short: "The course presents the methods for studying fossil reef systems, explains geological and biological control factors of reef development, and shows the geological history of reef systems."
+  evaluation: "Graded together with Programming and statistics in paleobiology"
+  semester: 3
+  administrator: kiessling
+  instructors:
+    - dimitrijevic
+    - kiessling
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101119&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5315001.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/reefs.jpg"
+  image:
+    title: "images/courses/big/reefs_corals.jpg"
+    caption: "Corals growing in the Palmyra Atoll National Wildlife Refuge in the Pacific Ocean. Image by Jim Maragos for the U.S. Fish and Wildlife Service (public domain)"
+  form: "1.5 hour lecture per week."
+  type:
+    - seminar
+
+- name: Programming and statistics in reef system analysis
+  nickname: Reef System Analysis
+  module: "PB-F3"
+  time:
+    y2022:
+      - "11:00 - 12:30"
+  room:
+    y2022:
+      - "Henkestr. "
+  ref: programming_and_stats
+  group:
+    - regular
+  short: 'Statistical modeling and supervised machine learning approaches focusing on reef distribution data from the <a href="https://www.paleo-reefs.pal.uni-erlangen.de/">PaleoReefs Database</a>. '
+  evaluation: "Students are required to present a short presentation from the analysis project they have conducted."
+  semester: 3
+  administrator: kiessling
+  instructors:
+    - kiessling
+    - kocsis
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99479&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5315003.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/programming.png"
+  image:
+    title: "images/courses/big/programming_big.png"
+    caption: "Reef abundance through time, figure by W. Kiessling"
+  form: "1.5 hour lecture per week."
+  type:
+    - tutorial
+
+- name: Macroecology
+  nickname: Macroecology
+  module: "PB-F1"
+  time:
+    y2022:
+      - "14:00 - 15:30"
+  room:
+    y2022:
+      - "Henkestr."
+  ref: macroecology
+  group:
+    - regular
+  short: "A top-down approach to the biosphere and the distribution of species. Spatially explicit, global-scaled variables are discussed with reference to their history based on paleontological research."
+  evaluation: "Students are expected to participate in the classes and to do homework exercises. "
+  semester: 3
+  administrator: kocsis
+  instructors:
+    - kocsis
+    - warnock
+    - steinbauer
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95448&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5315005.html"
+  photos:
+  image:
+    title: "images/courses/big/biomass.png"
+    caption: "Present-day marine biomass distribution (Hatton et al. 2021)"
+    caption_url: "https://www.science.org/doi/abs/10.1126/sciadv.abh3732"
+  thumbnail: "images/courses/thumbnails/macroecology.jpg"
+  form: "Two-hour seminar every week. "
+  type:
+    - lecture
+    - tutorial
+
+- name: Oceanography
+  nickname: Oceanography
+  module: "PB-E1"
+  time:
+    y2022:
+      - "10:15 - 11:00"
+  room:
+    y2022:
+      - "Henkestr."
+  ref: oceanography
+  group:
+    - regular
+  short: "The lecture conveys the principles of oceanography and climate, such as the mechanism of thermohaline circulation, the importance of water mass properties, the phenomenon of internal waves, ocean front systems, ocean acidification, and its relationship with global climate."
+  evaluation: "A written exam together with Biofacies and Paleoecology."
+  semester: 1
+  administrator: teichert
+  instructors:
+    - teichert
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86381&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314456.html"
+  image:
+    title: "images/courses/big/oceanography.jpg"
+    caption: "The research vessel 'Maria S. Merian' (Photo by Sebastian Teichert)"
+  thumbnail: "images/courses/thumbnails/oceanography.jpg"
+  form: "45 minute lecture every week."
+  type:
+    - lecture
+
+- name: Science Communication
+  nickname: Science Communication
+  module: "CE-F1"
+  time:
+    y2022:
+      - "13:00 - 14:30"
+  room:
+    y2022:
+      - "Henkestr."
+  ref: science_communication
+  group:
+    - regular
+  research: true
+  short: "This course covers different ways of communicating science both within and outside research. We’ll cover scientific writing, making and designing presentations, communicating with the media, art in science and outreach."
+  evaluation: "Students have to present a poster and a press release (50% each) based on their own research or a topic of their choice."
+  semester: 3
+  administrator: warnock
+  instructors:
+    - dunne
+    - clements
+    - warnock
+    - mulvey
+    - dimitrijevic
+#    - regelous
+#    - laura_soul
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101828&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5315004.html"
+  image:
+    title: "images/courses/big/palaeovision2021.png"
+    caption: "The class <a href='https://www.gzn.nat.fau.eu/2021/12/19/palaeofaus-bele-mighty-video-won-1st-place-in-the-palaeovision-fossil-contest/'>won the PalAss 2021 Palaeovision contest</a>! (drawing by <a href='https://twitter.com/ratbotcomics'>Dr. Jones</a>) - <a href='https://www.youtube.com/watch?v=2AuWw_CvPKY'>Check out the winning entry!</a>"
+  photos:
+  thumbnail: "images/courses/thumbnails/outreach.jpeg"
+  form: "1.5 hour seminar every week. "
+  type:
+    - seminar
+
+- name: Geochemical proxies in palaeoenvironmental analysis
+  nickname: Geochemistry
+  module: "CE-V1"
+  time:
+    y2022:
+      - "08:15 - 09:45"
+      - "16:15 - 17:45"
+  room:
+    y2022:
+      - "GZN, ÜR Mineralogie"
+  ref: geochemistry
+  group:
+    - regular
+  short: "The course covers the application of sedimentary geochemistry with special consideration of major and trace elements, rare earth elements (REE), stable and radiogenic isotopes. The application of geochemical proxies to reconstructions of the climate as well as of the paleoenvironmental conditions will be introduced."
+  more: "Participants will be trained to use and interpret the geochemical proxies by working on examples from the Geological history."
+  evaluation: "60-minute written exam. "
+  semester: 1
+  administrator: joachimski
+  instructors:
+    - joachimski
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93702&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314453.html"
+  photos:
+  image:
+    title: "images/courses/big/isotopes.jpg"
+    caption: "Geography's influence on oxygen isotope distribution (Pederzani and Britton, 2019)"
+    caption_url: "https://www.sciencedirect.com/science/article/abs/pii/S0012825218301284?via%3Dihub"
+  thumbnail: "images/courses/thumbnails/geochem_lab.jpg"
+  form: "90 min lecture plus 90 min practical work once a week"
+  type:
+    - lecture
+    - tutorial
+
+
+- name: Proxies in Paleoenvironmental Reconstructions
+  nickname: Paleoenvironmental Proxies
+  module: "PB-F1"
+  time:
+    y2022:
+      - "12:15 - 13:45"
+  room:
+    y2022:
+      - "Pal, Old library"
+  ref: proxies
+  group:
+    - regular
+  short: "Environmental parameters such as productivity, redox conditions or salinity can be approximated with quantitative data derived from the geological record. The course emphasizes quantitative, testable paleobiological proxies which can be used to make predictions and assessed in terms of their accuracy. "
+  evaluation:
+  semester: 3
+  administrator: teichert
+  instructors:
+    - dunne
+    - teichert
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104466&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314454.html"
+  photos:
+  image:
+    title: "images/courses/big/proxies.jpg"
+    caption: "Examples of proxy data (NOAA - pixabay)"
+    caption_url: "https://www.ncei.noaa.gov/news/what-are-proxy-data"
+  thumbnail: "images/courses/thumbnails/proxy_paleo.png"
+  form:
+  type:
+    - lecture
+    - seminar
+
+- name: Consolidation of R Programming Skills
+  nickname: R Programming
+  module: "CE-V2: Climate and Earth System Research Lab I"
+  time:
+    y2022:
+      - "09:00 - 10:30"
+  room:
+    y2022:
+      - "Henkestr."
+  ref: rcourse
+  group:
+    - regular
+  short: "Building on the basic understanding acquired in the <a href='#key-qualification-courses'>'computers course'</a>, this course aims at the development of programming skills. Weekly homework exercises accompany the systematic treatment of the tools offered in the R base distribution."
+  material: "<a href='https://adamkocsis.github.io/rconsolidation/'>Lecture website </a>"
+  evaluation: "Students are expected to solve a set of exercises until they demonstrate their abilities to program on their own."
+  semester: 1
+  administrator: kocsis
+  instructors:
+    - kocsis
+    - warnock
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107608&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5314570.html"
+  photos:
+  image:
+    title: "images/courses/big/r.jpg"
+    caption: "R code (Adobe Stock photo)"
+    caption_url: "https://stock.adobe.com/de/images/r-code-on-dark-background-in-code-editor-and-letter-r-r-programing-language/427244113?as_campaign=ftmigration2&as_channel=dpcft&as_campclass=brand&as_source=ft_web&as_camptype=acquisition&as_audience=users&as_content=closure_asset-detail-page"
+  thumbnail: "images/courses/thumbnails/R.png"
+  form: "90 minute lecture every week."
+  type:
+    - tutorial
+
+- name: Research Project Design - I. Seminar
+  nickname: Seminar Presentation
+  module: "CE-F2"
+  ref: rp_design_seminar
+  group:
+    - regular
+  research: true
+  short: "In this course, students learn how to present their a new research project that they designed. "
+  evaluation: "Students are expected to attend the institutional seminar and present their the research project that they designed at the end of the semester."
+  semester: 3
+  administrator:
+    - warnock
+  instructors:
+    - warnock
+  ects: 2.5 
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85210&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5315006.html"
+  photos:
+  image:
+    title: "images/courses/big/design.jpg"
+    caption: "Research Design"
+    caption_url: "https://leverageedu.com/blog/research-design/"
+  thumbnail: "images/courses/thumbnails/seminar.png"
+  form: "90 minute seminar every week. "
+  type:
+    - seminar
+
+- name: Research Project Design - II. Proposal
+  nickname: Research Design
+  module: "CE-F2"
+  time:
+    y2022:
+      - "10:30 - 12:00"
+  room:
+    y2022:
+      - "Pal, Old library"
+  ref: rp_design_proposal
+  group:
+    - regular
+  research: true
+  short: "Acquiring funding is an important part of being a scientist. In this course, students learn how to design research projects and write scientific proposals.  "
+  evaluation: "Students are expected to write a research project proposal that resembles proposals of the <a href='https://www.dfg.de/'>Deutsche Forschungsgemeinschaft (DFG)</a>."
+  semester: 3
+  administrator:
+    - warnock
+  instructors:
+    - warnock
+  ects: 2.5 
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95756&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5315012.html"
+  photos:
+  image:
+    title: "images/courses/big/design.jpg"
+    caption: "Research Design"
+    caption_url: "https://leverageedu.com/blog/research-design/"
+  thumbnail: "images/courses/thumbnails/proposal.jpg"
+  form: "Occassional meeting with lecturers for discussion. "
+  type:
+    - tutorial
+
+- name: Climate and Earth System Data
+  nickname: Climate and Earth System Data
+  ref: earth_data
+  module: "CE-V2"
+  time:
+  room:
+  group:
+    - regular
+  short: "Data are everywhere. In this course, students learn examples of the available kinds of data in Earth System Research and a universal programming toolset to manipulate, transform and work with them."
+  evaluation: "Students are required to participate in the classes and to finish an analytical project combining multiple data sources. "
+  semester: 2
+  administrator: kocsis
+  instructors:
+    - kocsis
+  ects: 2.5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108690&periodId=387&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs2746091.html"
+  thumbnail: "images/courses/thumbnails/data.png"
+  photos:
+  image:
+    title: "images/courses/big/climate_data.jpg"
+    caption: "Future projection of temperature change with the SSP585 scenario (DKRZ)"
+    caption_url: "https://www.dkrz.de/en/communication/climate-simulations/cmip6-en/the-ssp-scenarios?set_language=en"
+  form: "Block course after the second semester. "
+  type:
+    - tutorial
+
+###########################################################################
+# Supplementary courses follow
+- name: Computers in Geosciences
+  nickname: Computers in Geosciences
+  ref: computers
+  group:
+    - key
+    - wahl
+  short: "Usually just called the ‘<i>computers course</i>’. The course covers range of basic computer skills including an introduction to <a href='https://www.r-project.org/'>R programming language</a> and procedural data analysis."
+  note:  "As many other courses in the Paleobiology master program rely on R, this course is recommended for every student. It takes place before any other course in the program (first half of October), before the actual start of the first semester. "
+  more: "Essential tasks on the computer including image manipulation, vector graphics, directory structures and file management, working with plain text and the fundamentals of programming are topics included in this course."
+  evaluation: "Attendance and participation is required to pass the class."
+  administrator: kocsis
+  instructors:
+    - kiessling
+    - teichert
+    - kocsis
+    - schulbert
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91654&periodId=396&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs5362352.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/computers.jpg"
+  image:
+    title: "images/courses/big/computers.jpg"
+  form: "1 week block course."
+  type: "practical"
+
+- name: Ethics and Law in Geoscience Research
+  nickname: Ethics and Law in Geoscience Research
+  ref: ethics
+  group:
+    - key
+  short: "Extraction in the geosciences has long been viewed as necessary for acquiring essential research data, however, more recently geoscientists are becoming increasingly more conscious of their social role and responsibilities in conducting their research."
+  more: "This course will introduce students to the ethics and legal considerations necessary for conducting equitable, equitable, and sustainable geoscience research. Together, we will explore case studies of unethical and/or illegal activities linked to the geosciences and hear from several international experts on the topics of parachute science, social justice, scientometrics, data sovereignty, and decolonisation."
+  evaluation: "Written report"
+  time:
+    y2023:
+      - "14:00 - 17:00"
+  room: 
+    y2023:
+      - "Henkestr. "
+  administrator: dunne
+  instructors:
+    - dunne
+    - dimitrijevic
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109411&periodId=395&navigationPosition=studiesOffered,searchCourses"
+  studon: "https://www.studon.fau.de/crs4832392.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/ethics.png"
+  image:
+    title: "images/courses/big/ethics.jpeg"
+  form: "Weekly seminar"
+  type: "seminar"
+
+
+- name: "International Course on Carbonate Microfacies (<i>Flügel Course</i>)"
+  nickname: Carbonate Microfacies course (<i>Flügel Course</i>)
+  ref: fluegel
+  group:
+    - key
+  short: "This is a five-days course on carbonate microfacies and diagenesis. Examples from almost all geological time slices and depositional environments are presented and discussed in microscopy exercises using a one-of-a-kind collection of thin sections. "
+  more: "This internationally very well-known course, which attracts participants from all over the world, takes place twice a year and is regularly fully booked."
+  evaluation:
+  semester:
+  administrator: munnecke
+  instructors:
+    - munnecke
+  ects: 3
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94798&periodId=395&navigationPosition=studiesOffered,searchCourses"
+  studon:
+  image:
+    title: "images/courses/big/fluegel.jpg"
+    caption: "An Ordovician batman (Photo by Axel Munnecke)"
+  photos:
+  thumbnail: "images/courses/thumbnails/fluegel.png"
+  form: "Five-day intesive course."
+  type:
+
+- name: "Gotland Field School"
+  nickname: "Gotland Field School"
+  ref: gotland
+  group:
+    - key
+  short: "Every second year, master students are taken on an exciting trip to the exotic Island of Gotland (Sweden), where they get hands-on experience with the wonders of Paleozoic rocks, fossils and stratigraphy."
+  evaluation: "Students need to write a report to pass the class."
+  semester:
+  administrator: munnecke
+  instructors:
+    - munnecke
+    - warnock
+  ects:
+  campo:
+  studon:
+  photos:
+  thumbnail: "images/courses/thumbnails/gotland.jpg"
+  image:
+    title: "images/courses/big/gotland.png"
+    caption: "The 2021 Gotland Field Trip (Drawing by Anna Merkel)"
+  form: "Every two years, two-week field trip usually in late Summer (September)."
+  type:
+    - field
+
+- name: "Poland field school"
+  nickname: "Poland Field School"
+  ref: poland
+  group:
+    - key
+  short: "The course focuses on stratigraphic paleobiology. We will visit several outcrops all together, combined with a series of short lectures and exercises on quantitative methods for analysing the data we observe in the field. During the second half, you will have group projects."
+  evaluation: "Students will be evaluated based on their group projects."
+  note: "Project-wise we can be very flexible because the geology of the region is quite diverse. Check this out! We’ll be staying at the <a href='https://www.eceg.uw.edu.pl/en/more-about-us'>European Centre for Geology</a>!"
+  semester:
+  administrator: warnock
+  instructors:
+    - warnock
+    - munnecke
+  ects: 5
+  campo: "https://campo.fau.de/form?__s=2&dsc=anew/lecture_view&lvs=nat/dgeo/IGM/profes_2/gelnde&anonymous=1&dir=nat/dgeo/IGM/profes_2&lang=en&ref=lecture&sem=2022s&__e=89"
+  studon: "https://www.studon.fau.de/crs4325039.html"
+  photos:
+  thumbnail: "images/courses/thumbnails/poland.png"
+  form:
+  type:
+    - field
+
+- name: "Problem Solving in Paleobiology"
+  nickname: "Problem Solving in Paleobiology"
+  ref: problem
+  group:
+    - wahl
+  short: "The freedom of science... Students can work on a small research project of their choice. "
+  evaluation:
+  semester:
+  administrator: kiessling
+  instructors:
+    - kiessling
+  ects: 5
+  campo: "https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95163&periodId=395&navigationPosition=studiesOffered,searchCourses"
+  studon: ""
+  photos:
+  image:
+    title: "images/courses/big/problem.jpg"
+  thumbnail: "images/courses/thumbnails/problem.jpg"
+  form: "Research work with the supervisor of the project. "
+  type:
