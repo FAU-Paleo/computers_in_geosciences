@@ -11,10 +11,11 @@ This webpage contains material that is taught at **Computers in Geosciences** co
 
 # Iterations
 
-| Year | Dates         | Instructors                                                              | Material |
-|------|---------------|--------------------------------------------------------------------------|----------|
-| 2023 | October 09-13 | Ádám Kocsis, Sebastian Teichert, Christian Schulbert, Wolfgang Kiessling |          [Material of the 2023 course]({{site.url}}{{site.baseurl}}2023/)|
-| 2024 | October 07-11 | Ádám Kocsis, Sebastian Teichert, Christian Schulbert, Wolfgang Kiessling |          [Material of the 2024 course]({{site.url}}{{site.baseurl}}2024/)|
+| Year | Dates         | Instructors                                                              | Material                                                         |
+|------|---------------|--------------------------------------------------------------------------|------------------------------------------------------------------|
+| 2023 | October 09-13 | Ádám Kocsis, Sebastian Teichert, Christian Schulbert, Wolfgang Kiessling | [Material of the 2023 course]({{site.url}}{{site.baseurl}}2023/) |
+| 2024 | October 07-11 | Ádám Kocsis, Sebastian Teichert, Christian Schulbert, Wolfgang Kiessling | [Material of the 2024 course]({{site.url}}{{site.baseurl}}2024/) |
+| 2025 | October 06-10 | Ádám Kocsis, Sebastian Teichert, Christian Schulbert, Wolfgang Kiessling | [Material of the 2025 course]({{site.url}}{{site.baseurl}}2025/) |
 
 
 
