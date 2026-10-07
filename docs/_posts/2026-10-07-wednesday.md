@@ -11,3 +11,7 @@ permalink: /2026/wednesday/
 # Data analysis 
 
 ... with Wolfgang Kiessling
+
+
+- Slides: [`Data_Analysis_Stats2026.pptx`]({{site.url}}{{site.baseurl}}/data/2026/day3/Data_Analysis_Stats2026.pptx)
+- Code: [`Statistics1_2026.R`]({{site.url}}{{site.baseurl}}/data/2026/day3/Statistics1_2026.R)
