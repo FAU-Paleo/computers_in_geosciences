@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wednesday: Iterations, characters and basic data analysis"
-date:   2024-10-05 06:25:27 +0200
+title:  "Wednesday: characters, iteration and basic data analysis"
+date:   2024-10-07
 permalink: /2026/wednesday/
 ---
 
